@@ -1,4 +1,4 @@
-Email 2: Expressing Interest in an Internship
+# Email 2: Expressing Interest in an Internship
 Subject: Internship Inquiry: Summer Engineering Intern Role - Vanshika Rana
 
 Dear Ashish Chaudhary,
@@ -12,4 +12,4 @@ I would appreciate the opportunity to discuss how I can contribute to your upcom
 Sincerely,
 
 Vanshika Rana
-9368480810
++91**********
