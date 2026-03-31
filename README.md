@@ -7,6 +7,7 @@ Reg No: 25MEI10084
 Course: CSE0001 Digital Literacy
 
 **Project Overview**
+
 This project is created as part of the Digital Literacy course at VIT Bhopal. It focuses on building awareness about digital tools, professional online presence, communication, and cyber safety.
 
 **Tasks Included**
