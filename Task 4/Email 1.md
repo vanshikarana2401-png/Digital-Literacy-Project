@@ -1,5 +1,7 @@
 # Email 1: Requesting an Assignment Extension
-Subject: Extension Request: CSE0001 Assignment - Vanshika Rana - 25MEI10084
+Subject: Extension Request
+
+CSE0001 Assignment - Vanshika Rana - 25MEI10084
 
 Dear Professor ,
 
