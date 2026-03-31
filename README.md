@@ -1,10 +1,13 @@
 # Digital-Literacy-Project
 This is a project on the topic of digital literacy.
-**Digital Literacy**
-Student Details
-Name: Vanshika Rana.
-Reg No: 25MEI10084
-Course: CSE0001 Digital Literacy
+
+**Student Details**
+
+- Name: Vanshika Rana.
+
+- Reg No: 25MEI10084
+
+- Course: CSE0001 Digital Literacy
 
 **Project Overview**
 
