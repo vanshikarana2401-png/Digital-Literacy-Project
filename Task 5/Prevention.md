@@ -1,0 +1,19 @@
+# Stay Safe Online 
+
+**A Guide for Students:**
+
+- **Never share your UPI PIN:** Remember, a PIN is only required to send money, never to receive it.
+
+- **Verify the Sender:** Official banks will never ask for KYC updates via a clickable link in an SMS.
+
+- **Enable Biometric Locks:** Use fingerprint or FaceID locks on all payment apps to prevent unauthorized access if your phone is lost.
+
+- **Check the URL:** Before entering any details, ensure the website address starts with https:// and has a padlock icon.
+
+- **Use Multi-Factor Authentication (MFA):** Enable 2FA on your email and social media accounts to add a second layer of defense.
+
+- **Avoid Public Wi-Fi for Banking:** Never conduct financial transactions on open college or café Wi-Fi networks.
+
+- **Review App Permissions:** Periodically check which apps have access to your contacts, SMS, and location.
+
+- **Report Immediately:** If you are defrauded, immediately contact the National Cyber Crime Portal at cybercrime.gov.in or call the Helpline 1930
