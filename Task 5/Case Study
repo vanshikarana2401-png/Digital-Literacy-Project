@@ -1,7 +1,0 @@
-Type: UPI/Online Payment Fraud The "KYC Update" UPI Scam
-This common cybercrime begins with a "smishing" (SMS phishing) attack. A student receives an urgent text message claiming their bank account or UPI ID will be blocked unless they update their KYC details immediately. The message contains a link to a fake website that looks identical to a legitimate bank portal.
-
-Step-by-Step Process:The Hook:
-The victim clicks the link out of fear of losing account access.Information Theft: The fake site asks for the victim’s phone number and a "verification code".The Fraud: Instead of a KYC form, the attacker sends a "Collect Request" via a UPI app (like GPay or PhonePe).The Mistake: The victim, thinking they are "verifying" their account, enters their UPI PIN.The Consequence: Money is instantly debited from the student's account. Since UPI transactions are real-time, the funds are often moved through multiple accounts quickly, making recovery difficult.
-
-Target: College students and young professionals who frequently use digital payments for food, books, and fees.
